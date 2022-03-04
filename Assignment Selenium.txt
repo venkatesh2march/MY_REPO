@@ -1,0 +1,6 @@
+2.Assignment - Create a script to dismissed the alert the alert box and certify with message "You Pressed Cancel"
+
+
+24/02/2022:
+==========
+Assignment - Create a few test and group them as Regression, Smoke, E2E test cases
